@@ -8,4 +8,4 @@ def removeDuplicates(s):
     return ''.join(stack)
 
 s = "abbaca"
-print(removeDuplicates(s))
+print(removeDuplicates(s)) 

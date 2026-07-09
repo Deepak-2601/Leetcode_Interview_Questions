@@ -1,0 +1,6 @@
+Tough Question:
+1.	Top K frequent words
+2.	Island Perimeter 
+3.	Clone Graph
+4.	LRU Cache
+5.	Snakes and ladders

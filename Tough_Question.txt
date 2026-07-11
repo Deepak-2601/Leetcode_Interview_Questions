@@ -4,3 +4,4 @@ Tough Question:
 3.	Clone Graph
 4.	LRU Cache
 5.	Snakes and ladders
+6. Cherry Pickup

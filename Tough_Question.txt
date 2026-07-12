@@ -5,3 +5,4 @@ Tough Question:
 4.	LRU Cache
 5.	Snakes and ladders
 6. Cherry Pickup
+7. Permutation in string

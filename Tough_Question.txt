@@ -6,3 +6,4 @@ Tough Question:
 5.	Snakes and ladders
 6. Cherry Pickup
 7. Permutation in string
+8. Random pick with weight

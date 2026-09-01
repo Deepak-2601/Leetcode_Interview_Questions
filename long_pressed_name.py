@@ -17,3 +17,4 @@ name = "alex"
 typed = "aaleex"
 result = isLongPressedName(name,typed)
 print(result)
+
